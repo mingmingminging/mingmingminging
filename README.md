@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Ming! 👋
 
+I ❤️ the web. I like you,too.
 <!--
 **mingmingminging/mingmingminging** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
